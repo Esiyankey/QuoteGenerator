@@ -36,11 +36,11 @@
   color: rgba(241, 218, 15, 0.945);
   transition: 0.4s ease-in-out;
 }
-.btn:hover {
+/* .btn:hover {
   background-color: rgba(241, 218, 15, 0.425);
   color: white;
   border: 3px solid rgb(255, 81, 0);
-}
+} */
 
 /* .icon {
   position: relative;
