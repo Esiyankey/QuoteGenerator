@@ -5,7 +5,7 @@
   font-weight: 400;
 }
 .navbar {
-  background-color: rgba(241, 218, 15, 0.945);
+  background-color: #5C6F7F;
   height: 50px;
 }
 .title {
@@ -30,10 +30,10 @@
   border-radius: 30px;
   outline: none;
   border: none;
-  border: 3px solid rgba(241, 218, 15, 0.945);
+  border: 3px solid #1ABC9C;
   font-size: 22px;
   font-weight: bold;
-  color: rgba(241, 218, 15, 0.945);
+  color: #1ABC9C;
   transition: 0.4s ease-in-out;
 }
 /* .btn:hover {
@@ -54,7 +54,7 @@
   color: rgba(241, 218, 15, 0.945);
 }
 .main-container {
-  background-color: white;
+  background-color: #FFC857;
   min-height: 100vh;
   padding: 40px;
 }
