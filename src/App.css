@@ -24,9 +24,7 @@
     conic-gradient(#0000 30%, #1abc9c);
   -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 9px), #000 0);
   animation: spinner-c7wet2 1s infinite linear;
-  position: relative;
-  left: 350px;
-  top: -100px;
+ 
  
 }
 
@@ -85,6 +83,11 @@
   }
   body {
     background-color: rgba(247, 240, 182, 0.555);
+  }
+  .spinner{
+    position: relative;
+    left: 350px;
+    top: -100px;
   }
   .title {
     font-size: 47px;
